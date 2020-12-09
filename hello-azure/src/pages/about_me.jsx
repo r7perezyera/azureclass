@@ -62,6 +62,7 @@ export const AboutMe = () => {
                   <li>Para el curso de administración de proyectos de ingeniería de software, mis amigos y yo generamos en conjunto una aplicación web completa: front y back.</li>
                   <ul>
                       <li>Fue ahí donde empecé a familiarizarme con React, y el poderosísimo React-Bootstrap (usado aquí).</li>
+                      <li>Genuine hat tip a mis amigos por el tiempo y esfuerzo invertidos en ese proyecto, apoyarme a mí específicamente con dudas, etc.</li>
                   </ul>
                   <li>En el curso de desarrollo de aplicaciones web tuve oportunidad de familiarizarme con la nube pública de Amazon.</li>
                   <ul>
