@@ -42,6 +42,10 @@ export const AboutMe = () => {
                           <Badge variant='info'>Cisco Certified</Badge>{' '}
                           En enero de este año pasé el examen que me acredita como Cisco Certified Network Associate.
                       </li>
+                      <li>Como una vez cada 100 años, trabajo en mi passion project: una guía de comandos para el IOS de Cisco. Con la que puedo repasar y compartir esta información con los demás, en un formato que considero conveniente.
+                          <br/>
+                          ¿Te interesa o sabes de alguien? <a href="https://github.com/r7perezyera/Cisco-IOS-Command-CheatSheets" target="_blank">Lo encuentras aquí ;)</a> 
+                      </li>
                   </ul>
               </ul>
           </Col>

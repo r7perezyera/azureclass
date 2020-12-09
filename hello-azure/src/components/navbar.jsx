@@ -8,7 +8,7 @@ export const Navbar = () => {
         <BootstrapNavbar expand="lg" variant="dark" bg="dark">
           <BootstrapNavbar.Brand href="#">Hola Azure</BootstrapNavbar.Brand>
 
-          <Nav className="mr-auto">
+          {/* <Nav className="mr-auto">
             <Nav.Link href="#welcome">
               Bienvenida
             </Nav.Link>
@@ -21,7 +21,7 @@ export const Navbar = () => {
             <Nav.Link href="#contact">
               Contacto
             </Nav.Link>
-          </Nav>
+          </Nav> */}
         </BootstrapNavbar>
       </Container>
     </>
