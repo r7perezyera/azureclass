@@ -44,7 +44,7 @@ export const AboutMe = () => {
                       </li>
                       <li>Como una vez cada 100 años, trabajo en mi passion project: una guía de comandos para el IOS de Cisco. Con la que puedo repasar y compartir esta información con los demás, en un formato que considero conveniente.
                           <br/>
-                          ¿Te interesa o sabes de alguien? <a href="https://github.com/r7perezyera/Cisco-IOS-Command-CheatSheets" target="_blank">Lo encuentras aquí ;)</a> 
+                          ¿Te interesa o sabes de alguien? <a href="https://github.com/r7perezyera/Cisco-IOS-Command-CheatSheets" target="_blank" rel='noopener noreferrer'>Lo encuentras aquí ;)</a> 
                       </li>
                   </ul>
               </ul>
@@ -68,6 +68,12 @@ export const AboutMe = () => {
                       <li>Y este taller y este ejercicio han sido una excelente oportunidad para conocer qué ofrece Microsoft de su lado.</li>
                   </ul>
               </ul>
+          </Col>
+
+          <Col lg={12}>
+              <h2>Uhm, contacto, supongo...</h2>
+              <p>¿Crees que podríamos tener una conversación interesante? ¿Necesitas asesoría en alguno de los temas del CCNA? ¿Necesitas a un ingeniero de redes novato? (porque eso sería genial)</p>
+              <p>Dejo aquí mi <a href="https://www.linkedin.com/in/r7perezyera/" target="_blank" rel='noopener noreferrer'>Linkedin</a> :)</p>
           </Col>
         </Row>
 
