@@ -2,12 +2,7 @@ import React from 'react';
 import {
   Container,
   Row,
-  Col,
-  Button,
-  Jumbotron,
-  Card,
-  Image,
-  Modal,
+  Col
 } from 'react-bootstrap';
 
 export const AboutMe = () => {
